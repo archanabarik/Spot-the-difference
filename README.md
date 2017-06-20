@@ -1,2 +1,2 @@
-# difference
-Game to find the difference between two
+# spot difference
+Game to find the difference between two smiley
